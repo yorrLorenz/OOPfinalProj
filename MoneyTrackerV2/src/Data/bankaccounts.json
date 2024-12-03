@@ -1,0 +1,81 @@
+[
+    {
+        "balance": 0,
+        "transactions": [],
+        "username": "John1234",
+        "expenses": [
+            {
+                "transactionType": "Payment",
+                "date": "2024-12-01",
+                "type": "gas",
+                "value": 200
+            },
+            {
+                "transactionType": "Payment",
+                "date": "2024-12-01",
+                "type": "water",
+                "value": 200
+            },
+            {
+                "transactionType": "Receive",
+                "date": "2024-12-02",
+                "type": "allowance",
+                "value": 200
+            },
+            {
+                "transactionType": "Payment",
+                "date": "2024-12-01",
+                "type": "a",
+                "value": 2
+            },
+            {
+                "transactionType": "Payment",
+                "date": "2024-12-03",
+                "type": "food",
+                "value": 200
+            },
+            {
+                "transactionType": "Receive",
+                "date": "2024-12-03",
+                "type": "food",
+                "value": 200
+            },
+            {
+                "transactionType": "Receive",
+                "date": "2024-12-03",
+                "type": "a",
+                "value": 2
+            }
+        ]
+    },
+    {
+        "balance": 0,
+        "transactions": [],
+        "username": "Cardenas1234",
+        "expenses": [
+            {
+                "transactionType": "Payment",
+                "date": "2024-12-03",
+                "type": "food",
+                "value": 300
+            },
+            {
+                "transactionType": "Receive",
+                "date": "2024-12-03",
+                "type": "food",
+                "value": 200
+            },
+            {
+                "transactionType": "Receive",
+                "date": "2024-12-02",
+                "type": "gas",
+                "value": 200
+            }
+        ]
+    },
+    {
+        "balance": 0,
+        "transactions": [],
+        "username": "Timy1234"
+    }
+]
